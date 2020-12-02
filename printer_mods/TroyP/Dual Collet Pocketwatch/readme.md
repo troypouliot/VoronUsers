@@ -3,7 +3,7 @@
 ### Issues with original design
 The friction fit method of securing the bowden tube in the feed side of the pocketwatch caused many times for the tube to come out of the ectruder housing during a filament change. When this happens the back panel needs to be removed in order to put the bowden tube back in place so a print can be resumed.
 
-![Filament path cross section](Filament%Path%Crosssection.jpg?raw=true)
+![Filament path cross section](printer_mods/TroyP/Dual%Collet%Pocketwatch/Filament%Path%Crosssection.jpg?raw=true)
 
 ### Solution
 I have simplified the design by combining the tensioner into the motor mount. Belt tensioning works by a small protrusion which pushes against the side of the Z drive housing (inspired by the original design). I have tried to keep the belt tension the same as is acheived in the original design. Assembly is surprisingly straightforward and cuts out a few of the steps required with a separate tensioning arm.
