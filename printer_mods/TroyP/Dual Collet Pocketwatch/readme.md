@@ -1,13 +1,11 @@
 # Simplified Z Drive Motor Mount
 
 ### Issues with original design
-I have had issues with  alignment on the 188mm Z drive belts causing the belt to rub on the motor pulley. I found that the motor mount was difficult to align squarely with the frame and this was causing the pulley misalignment. I haven't noticed any print issues caused by this misalignment but it will prematurely wear the belts, not to mention that the rubbing noise is not something I'm happy to live with on a £1200 printer.
+The friction fit method of securing the bowden tube in the feed side of the pocketwatch caused many times for the tube to come out of the ectruder housing during a filament change. When this happens the back panel needs to be removed in order to put the bowden tube back in place so a print can be resumed.
 
-I found the problem was caused by the design of the tensioner which means there isn't much space for the alignment key feature used to align the motor mount into the aluminium extrusion of the frame (shown highlighted in blue).
+![](Filament_Path_Crosssection.JPG?raw=true)
 
-![](Filament Path Crosssection.JPG?raw=true)
-
-### Simplified design
+### Solution
 I have simplified the design by combining the tensioner into the motor mount. Belt tensioning works by a small protrusion which pushes against the side of the Z drive housing (inspired by the original design). I have tried to keep the belt tension the same as is acheived in the original design. Assembly is surprisingly straightforward and cuts out a few of the steps required with a separate tensioning arm.
 
 Combining the tensioner into the motor mount has created space for the extrusion slot key to be extended across the entire face of the motor mount, allowing for the key to work more effectively in aligning the motor mount squarely to the frame and ensuring that the motor pulley is aligned with the belt and 80T driven pulley.
