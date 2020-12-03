@@ -9,6 +9,6 @@ The friction fit method of securing the bowden tube in the feed side of the pock
 I modified the main body to accept the same push in collet as is on the other (output) side.
 In order to avoid interfering with the latch, the inlet collet had to be angled slightly. The bowden tube gets inserted past this bend so it serves as a guide for the filament.
 
-![Filament path cross section](Filament_Path_Cross_Section.jpg?raw=true)
+![Filament path cross section](Filament_Path_XSection.jpg?raw=true)
 
 
