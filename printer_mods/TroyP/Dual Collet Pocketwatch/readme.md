@@ -1,4 +1,4 @@
-# Simplified Z Drive Motor Mount
+# Dual Collet Pocketwatch
 
 ### Issues with original design
 The friction fit method of securing the bowden tube in the feed side of the pocketwatch caused many times for the tube to come out of the ectruder housing during a filament change. When this happens the back panel needs to be removed in order to put the bowden tube back in place so a print can be resumed.
